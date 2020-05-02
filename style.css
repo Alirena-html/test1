@@ -1,0 +1,54 @@
+
+
+h1 {
+  text-align: center;
+  color: #182027;
+  font-family: Bradley Hand, cursive;
+  font-weight: 550;
+}
+body {
+  color: #161238;
+}
+form {
+  width: 700px;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 20px;
+
+  background-color: #eeebe7;
+  border-radius:50px;
+  
+}
+
+fieldset {
+  
+  padding: 30px;
+  line-height: 3;
+  border: 1px solid #34495e;
+  border-radius: 25px;
+}
+legend {
+  font-family: Bradley Hand, cursive;
+
+}
+button {
+
+  background-color:#d1ceed ;
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 10px;
+    height: 35px;
+    width: 110px;
+    font-family: Bradley Hand, cursive;
+    font-size: 17px;
+    color: #161238;
+  }
+
+  label {
+    font-family: DejaVu Sans Mono ;
+    font-weight: 200;
+  }
+ 
